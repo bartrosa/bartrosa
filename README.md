@@ -25,7 +25,7 @@ Typescript, Rust, Golang
 *Heretics of Dune* by Frank Herbert
 
 📫 **How to reach me:** 
-I prefer contact by email.
+I prefer contact by email: contact@bartrosa.pl
 <!--
 ---
 My projects:

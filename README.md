@@ -5,7 +5,7 @@ I'm an enthusiast of new technologies. I try to stay up to date with news from t
 
 ---
 🛠 **Tech stack:**
-- languages: Python, SQL
+- languages: Python, SQL, TypeScript
 - cloud: Azure, AWS
 
 💡 **I'm interested in:**
@@ -19,7 +19,7 @@ I'm an enthusiast of new technologies. I try to stay up to date with news from t
 Automated test demonstrators
 
 🌱 **I'm currently learning:** 
-Typescript, Rust, Golang
+Rust, Golang
 
 📖 **I'm currently reading:** 
 *Heretics of Dune* by Frank Herbert

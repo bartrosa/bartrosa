@@ -16,13 +16,13 @@ I'm an enthusiast of new technologies. I try to stay up to date with news from t
 - blockchain usage
 ---
 🔭 **I’m currently working on:** 
-Automated test demonstrators
-
+- Automated test demonstrators
+- LLM's usage in my daily tasks
 🌱 **I'm currently learning:** 
-Rust, Golang
+C++
 
 📖 **I'm currently reading:** 
-*Heretics of Dune* by Frank Herbert
+*Other Songs* by Jacek Dukaj
 
 📫 **How to reach me:** 
 I prefer contact by email: contact@bartrosa.pl

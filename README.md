@@ -18,6 +18,7 @@ I'm an enthusiast of new technologies. I try to stay up to date with news from t
 🔭 **I’m currently working on:** 
 - Automated test demonstrators
 - LLM's usage in my daily tasks
+  
 🌱 **I'm currently learning:** 
 C++
 

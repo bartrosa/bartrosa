@@ -81,4 +81,4 @@ AI and software engineer: taking ideas through to production — backends, data,
 
 ---
 
-📫 **Contact:** [contact@bartrosa.dev](mailto:contact@bartrosa.dev) · 🌐 [**bartrosa.dev**](https://bartrosa.dev)
+📫 **Contact:** [contact@bartrosa.dev](mailto:contact@bartrosa.dev) · 🌐 [**bartrosa.dev**](https://bartrosa.dev) · **[ORCID](https://orcid.org/0009-0006-6708-153X)** · **[Zenodo](https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Rosa%2C%20Bart%C5%82omiej%22&l=list&p=1&s=10&sort=bestmatch)**

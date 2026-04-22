@@ -17,7 +17,7 @@ AI and software engineer: taking ideas through to production — backends, data,
 - ⚙️ **Automation** — pipelines, internal tools, demonstrators when they buy time  
 
 🛠️ **Stack:** Python · TypeScript · SQL · Go · Rust  
-☁️ **Cloud:** AWS · 🎨 frontends when needed (**React**, **Vue**)
+☁️ **Cloud:** AWS · GCP · 🎨 frontends when needed (**React**, **Vue**)
 
 ---
 

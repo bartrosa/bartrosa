@@ -47,8 +47,4 @@ Walks, mountains, books — and staying curious about science and tooling.
 
 ---
 
-🔭 **Currently:** automated test demonstrators · LLMs in everyday engineering workflows  
-🌱 **Learning:** C++  
-📖 **Reading:** *Other Songs* by Jacek Dukaj  
-
-📫 **Contact:** [contact@bartrosa.pl](mailto:contact@bartrosa.pl) · **Site:** [bartrosa.dev](https://bartrosa.dev)
+📫 **Contact:** [contact@bartrosa.dev](mailto:contact@bartrosa.dev) · **Site:** [bartrosa.dev](https://bartrosa.dev)

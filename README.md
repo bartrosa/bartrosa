@@ -7,12 +7,18 @@ AI and software engineer: taking ideas through to production — backends, data,
 ---
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=bartrosa&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub profile stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bartrosa&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Most used languages on GitHub (by repo bytes)" />
+  <a href="https://github.com/bartrosa?tab=followers"><img src="https://img.shields.io/github/followers/bartrosa?label=Followers&logo=github&style=flat" alt="GitHub followers" /></a>
+  &nbsp;
+  <a href="https://github.com/bartrosa?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fbartrosa&query=public_repos&label=public%20repos&logo=github&color=1f6feb" alt="Public repositories" /></a>
+  &nbsp;
+  <a href="https://github.com/bartrosa?tab=repositories"><img src="https://img.shields.io/github/stars/bartrosa?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&label=stars%20on%20my%20repos&logo=github&style=flat" alt="Total stars on repositories I own or co-maintain" /></a>
+  &nbsp;
+  <a href="https://github.com/bartrosa?tab=stars"><img src="https://img.shields.io/badge/repos%20I%20star-87-0366d6?logo=github" alt="Public repositories I have starred (update count occasionally)" /></a>
 </p>
 
 <p align="center">
-  <sub>Stats via <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a> — reflects language mix across public repos, not editor time or dependency graphs.</sub>
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bartrosa&theme=github_dark" alt="Top 5 languages by commit (last year)" title="At most 5 languages — GitHub Profile Summary Cards" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bartrosa&theme=github_dark" alt="Top 5 languages by repository count" title="At most 5 languages — GitHub Profile Summary Cards" />
 </p>
 
 ---

@@ -6,6 +6,17 @@ AI and software engineer: taking ideas through to production — backends, data,
 
 ---
 
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=bartrosa&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub profile stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bartrosa&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Most used languages on GitHub (by repo bytes)" />
+</p>
+
+<p align="center">
+  <sub>Stats via <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a> — reflects language mix across public repos, not editor time or dependency graphs.</sub>
+</p>
+
+---
+
 ### 💼 Day-to-day
 
 🖥️ **Day job:** classic **full-stack** work — APIs, databases, stitching UIs to services — the boring, reliable kind that keeps production calm.
@@ -25,8 +36,14 @@ AI and software engineer: taking ideas through to production — backends, data,
 
 | Focus | Repo | Notes |
 |--------|------|--------|
+| 📄 **RAG / document ingest** | [**bigos**](https://github.com/bartrosa/bigos) | High-level PDF → markdown for RAG (**Docling**), OmniDocBench-style evals — **early PoC**, APIs still fluid |
+| ♟️ **CGT / Conway verification** | [**complexity-foundations**](https://github.com/bartrosa/complexity-foundations) | Algorithms + notebooks + Lean folder; rounds B/C on synergy & topology — **active research** |
+| 🌊 **Patterns & JAX** | [**continuous-patterns**](https://github.com/bartrosa/continuous-patterns) | **Cahn–Hilliard** Model C, sweeps, diagnostics (e.g. Liesegang-like spacing) — **pre-publication** research code |
+| 🔗 **NL ↔ formal proofs** | [**kalinov-bridge**](https://github.com/bartrosa/kalinov-bridge) | **Lean 4** + LLM loop, optional **ForTheL → Naproche** path, Gherkin-style tasks — **WIP**, CI with Mathlib |
+| 🎨 **GPU viz (Rust + WASM)** | [**phantomat**](https://github.com/bartrosa/phantomat) | **wgpu** rendering, **PyO3** / Jupyter, TS packages + WASM — **early development** |
+| 🥒 **LLM → DSL (monorepo)** | [**pickled-spec**](https://github.com/bartrosa/pickled-spec) | Shared gate/oracle pattern across BDD, OpenAPI, policy, IaC — **pre-alpha** |
 | 🔢 **Exact verification** | [**quantum-foundations**](https://github.com/bartrosa/quantum-foundations) | Rigorous Python — sedenions / octonions, generation graphs, CLI (`qf-verify-*`), `papers/` |
-| 🌊 **Patterns & JAX** | [**continuous-patterns**](https://github.com/bartrosa/continuous-patterns/tree/feat/agate-ch-cahn-hilliard) (`feat/agate-ch-cahn-hilliard`) | **Cahn–Hilliard**, falsification diagnostics (e.g. Liesegang-like spacing), YAML sweeps |
+| 🧪 **Supramolecular + QC helpers** | [**suprakit**](https://github.com/bartrosa/suprakit) | **xtb/tblite**, geometry, **Typer** CLI, MkDocs; long-term **NL → chemistry DSL** roadmap — **alpha** |
 
 ---
 
